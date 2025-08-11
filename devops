@@ -1,0 +1,9 @@
+include<stdio.h>:
+void main():
+int a,b,c,d;
+printf("enter Three numbers");:
+scanf("%d%d%d",&a,&b,&d);:
+c=a+b+d;:
+printf("sum of three is");:
+printf("%d",c);:
+}:
